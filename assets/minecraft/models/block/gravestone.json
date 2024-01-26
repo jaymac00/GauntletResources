@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/slab",
+	"textures": {
+		"1": "block/cracked_stone_bricks",
+		"3": "block/stonecutter_bottom"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 8, 16],
+			"faces": {
+				"north": {"uv": [0, 3, 16, 11], "texture": "#1"},
+				"east": {"uv": [0, 4, 16, 12], "texture": "#1"},
+				"south": {"uv": [0, 3, 16, 11], "texture": "#1"},
+				"west": {"uv": [0, 4, 16, 12], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#3"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16.05],
+			"scale": [2.01, 2.01, 2.01]
+		}
+	}
+}
