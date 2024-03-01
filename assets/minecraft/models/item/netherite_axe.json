@@ -6,37 +6,37 @@
   "overrides": [
     {
       "predicate": {
-        "custom_model_data": 1
+        "custom_model_data": 1001
       },
 	    "model": "minecraft:item/dragon_slayers/upgraded_aqua_axe"
     },
     {
       "predicate": {
-        "custom_model_data": 2
+        "custom_model_data": 1002
       },
 	    "model": "minecraft:item/dragon_slayers/upgraded_blue_axe"
     },
     {
       "predicate": {
-        "custom_model_data": 3
+        "custom_model_data": 1003
       },
 	    "model": "minecraft:item/dragon_slayers/upgraded_gold_axe"
     },
     {
       "predicate": {
-        "custom_model_data": 4
+        "custom_model_data": 1004
       },
 	    "model": "minecraft:item/dragon_slayers/upgraded_green_axe"
     },
     {
       "predicate": {
-        "custom_model_data": 5
+        "custom_model_data": 1005
       },
 	    "model": "minecraft:item/dragon_slayers/upgraded_purple_axe"
     },
     {
       "predicate": {
-        "custom_model_data": 6
+        "custom_model_data": 1006
       },
       "model": "minecraft:item/dragon_slayers/upgraded_red_axe"
     }
