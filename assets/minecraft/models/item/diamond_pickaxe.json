@@ -9,6 +9,12 @@
         "custom_model_data": 1
       },
       "model": "minecraft:item/redstone_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/diamond_pickaxe"
     }
   ]
 }
