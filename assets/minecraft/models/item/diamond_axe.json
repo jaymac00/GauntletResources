@@ -39,6 +39,12 @@
         "custom_model_data": 1006
       },
       "model": "minecraft:item/dragon_slayers/red_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1007
+      },
+      "model": "minecraft:item/diamond_axe"
     }
   ]
 }
