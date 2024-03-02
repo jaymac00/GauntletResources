@@ -9,6 +9,12 @@
         "custom_model_data": 1
       },
       "model": "minecraft:item/upgraded_redstone_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/netherite_pickaxe"
     }
   ]
 }
